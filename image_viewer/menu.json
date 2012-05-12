@@ -1,0 +1,5 @@
+{
+	"items": [
+		{"name": "Launch Image Viewer", "priority": 1, "action": "bin/start.sh"}
+	]
+}
