@@ -20,5 +20,5 @@ Usage:
 No copyright, you can use it, modify it or redistribute it freely.
 
 Yang Song
-http://twitter.com/songyang
-http://weibo.com/starsy2
+- http://twitter.com/songyang
+- http://weibo.com/starsy2
