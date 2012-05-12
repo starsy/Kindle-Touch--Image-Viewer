@@ -9,7 +9,7 @@ Prerequisite:
 Installation:
   0. Jailbreak Kindle Touch (http://wiki.mobileread.com/wiki/Kindle_Touch_Hacking#data.tar.gz_method)
   1. Install GUI Launcher (http://wiki.mobileread.com/wiki/Kindle_Touch_Hacking#GUI_Launcher)
-  2. Download this extension as a zip/gzip file
+  2. Download this extension as a zip/tgz file (https://github.com/starsy/Kindle-Touch--Image-Viewer/zipball/master)
   3. Unpack it into the "extensions" directory on mounted Kindle removable drive
   4. Create an "images" directory on mounted Kindle removable drive
 
