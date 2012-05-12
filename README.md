@@ -2,6 +2,8 @@ Kindle-Touch--Image-Viewer
 ==========================
 
 An extension for GUI Launcher on Kindle Touch: Image Viewer
+Homepage: http://starsy.github.com/Kindle-Touch--Image-Viewer/
+
 
 Prerequisite:
 - Kindle Touch w/ Firmware 5.1.0
