@@ -16,3 +16,9 @@ Installation:
 Usage:
   1. Put image files under the "images" directory
   2. "Menu" -> "Launcher" -> "Launch Image Viewer" to view images
+
+No copyright, you can use it, modify it or redistribute it freely.
+
+Yang Song
+http://twitter.com/songyang
+http://weibo.com/starsy2
